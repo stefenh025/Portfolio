@@ -17,7 +17,7 @@ footer{
   background-image: linear-gradient(
     rgba(0, 0, 0, 0.2),
     rgba(0, 0, 0, 0.2)
-  ), url("craig-pexels.jpg");
+  ), url("./images/craig-pexels.jpg");
   background-size:cover;
   width:auto;
   height:100vh;
